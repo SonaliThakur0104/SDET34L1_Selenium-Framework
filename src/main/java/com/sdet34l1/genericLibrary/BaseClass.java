@@ -25,7 +25,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * this class is common to all the test scripts and contains all the configuration TestNG annotations.
  * @author Sonali
- *This is  baseclass.
+ *Baseclass is parent class of all sub classes
  */
 public class BaseClass {
 	public JavaSpecificData javaSpecificData;

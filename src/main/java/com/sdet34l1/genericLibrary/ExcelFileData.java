@@ -13,7 +13,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 /**
  * This class contains excel related common data
  * @author Sonali
- *This class is updated.....
+ *This excel class is updated.....
  */
 
 public class ExcelFileData {

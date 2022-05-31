@@ -7,7 +7,10 @@ import java.util.Properties;
 /**
  * This class contains only Property File specific common methods.
  * @author Sonali
- *this...
+
+ *This is propertyfile class
+ *
+
  */
 
 public class PropertyFileData {
